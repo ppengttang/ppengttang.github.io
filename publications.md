@@ -7,7 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=h_oYR-
 <br />
 
 #### Preprints
-- <b>Peng Tang</b>, Chetan Ramaiah, Ran Xu, Caiming Xiong. "Proposal Learning for Semi-Supervised Object Detection". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2001.05086.pdf))
+- <b>Peng Tang</b>, Chetan Ramaiah, Yan Wang, Ran Xu, Caiming Xiong. "Proposal Learning for Semi-Supervised Object Detection". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2001.05086.pdf))
 - Zhenfang Chen, Lin Ma, Wenhan Luo, <b>Peng Tang</b>, Kwan-Yee K Wong. "Look Closer to Ground Better: Weakly-Supervised Temporal Grounding of Sentence in Video". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2001.09308.pdf))
 
 #### Conference papers
