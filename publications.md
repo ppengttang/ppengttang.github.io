@@ -7,6 +7,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=h_oYR-
 <br />
 
 #### Preprints
+- Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, <b>Peng Tang</b>, Wei Shen, Alan Yuille, Cihang Xie. "Shape-Texture Debiased Neural Network Training". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2010.05981.pdf))
 - Zhenfang Chen, Lin Ma, Wenhan Luo, <b>Peng Tang</b>, Kwan-Yee K Wong. "Look Closer to Ground Better: Weakly-Supervised Temporal Grounding of Sentence in Video". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2001.09308.pdf))
 
 #### Conference papers
