@@ -7,10 +7,10 @@ You can also browse my <a href="https://scholar.google.com/citations?user=h_oYR-
 <br />
 
 #### Preprints
-- Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, <b>Peng Tang</b>, Wei Shen, Alan Yuille, Cihang Xie. "Shape-Texture Debiased Neural Network Training". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2010.05981.pdf))
 - Zhenfang Chen, Lin Ma, Wenhan Luo, <b>Peng Tang</b>, Kwan-Yee K Wong. "Look Closer to Ground Better: Weakly-Supervised Temporal Grounding of Sentence in Video". arxiv, 2020. ([arxiv](https://arxiv.org/pdf/2001.09308.pdf))
 
 #### Conference papers
+- Yingwei Li, Qihang Yu, Mingxing Tan, Jieru Mei, <b>Peng Tang</b>, Wei Shen, Alan Yuille, Cihang Xie. "Shape-Texture Debiased Neural Network Training". International Conference on Learning Representations (ICLR), 2021. ([CODE](https://github.com/LiYingwei/ShapeTextureDebiasedTraining)) ([arxiv](https://arxiv.org/pdf/2010.05981.pdf))
 - <b>Peng Tang</b>, Chetan Ramaiah, Yan Wang, Ran Xu, Caiming Xiong. "Proposal Learning for Semi-Supervised Object Detection". IEEE Winter Conference on Applications of Computer Vision (WACV), 2021. ([arxiv](https://arxiv.org/pdf/2001.05086.pdf))
 - Hongru Zhu, <b>Peng Tang</b>, Jeongho Park, Soojin Park, Alan Yuille. "Robustness of Object Recognition under Extreme Occlusion in Humans and Computational Models". Annual Meeting of the Cognitive Science Society (CogSci), 2019. ([arxiv](https://arxiv.org/abs/1905.04598))
 - Song Bai, <b>Peng Tang</b>, Philip Torr, Longin Jan Latecki. "Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification". IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019. ([PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.pdf))
