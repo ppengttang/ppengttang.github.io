@@ -23,6 +23,7 @@ Better CNNs". International Conference on Pattern Recognition (ICPR), 2018. ([PD
 <br /> 
 
 #### Journal papers
+- Yan Wang, <b>Peng Tang</b>, Yuyin Zhou, Wei Shen, Elliot K. Fishman, Alan Yuille. "Learning Inductive Attention Guidance for Partially Supervised Pancreatic Ductal Adenocarcinoma Prediction". IEEE Transactions on Medical Imaging, 2021.
 - <b>Peng Tang</b>, Chunyu Wang, Xinggang Wang, Wenyu Liu, Wenjun Zeng, Jingdong Wang. "Object Detection in Videos by High Quality Object Linking". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019. ([PDF](https://ieeexplore.ieee.org/document/8686124)) ([arxiv](https://arxiv.org/abs/1801.09823))
 - <b>Peng Tang</b>, Xinggang Wang, Song Bai, Wei Shen, Xiang Bai, Wenyu Liu, Alan Yuille. "PCL: Proposal Cluster Learning for Weakly Supervised Object Detection". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2018. ([PDF](https://ieeexplore.ieee.org/document/8493315)) ([PyTorch CODE](https://github.com/ppengtang/pcl.pytorch)) ([Caffe CODE](https://github.com/ppengtang/oicr/tree/pcl)) ([arxiv](https://arxiv.org/abs/1807.03342))
 - <b>Peng Tang</b>, Xinggang Wang, Baoguang Shi, Xiang Bai, Wenyu Liu, Zhuowen Tu. "Deep FisherNet for Image Classification". IEEE Transactions on Neural Networks and Learning Systems, 2018. ([PDF](https://ieeexplore.ieee.org/document/8522050)) ([arxiv](https://arxiv.org/abs/1608.00182))
